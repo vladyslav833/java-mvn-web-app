@@ -12,5 +12,6 @@
       <h2 class="text-center">Hello World! DEV3L - v2.0</h2>
       <p class="text-center">Now with Travis-CI!</p>
   </div>
+  <p></p>
 </body>
 </html>
